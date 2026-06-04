@@ -13,7 +13,7 @@ Embedded software die detecteert of een persoon is gevallen.
 
 
 
-[Hardware Screenshot](Hardware-screenshot.jpg)
+![Hardware Screenshot](Hardware-screenshot.jpg)
 
 
 
@@ -21,7 +21,7 @@ Embedded software die detecteert of een persoon is gevallen.
 
 
 
-[Schakelschema](Schakelschema.png)
+![Schakelschema](Schakelschema.png)
 
 
 
@@ -29,7 +29,7 @@ Embedded software die detecteert of een persoon is gevallen.
 
 
 
-[Blokschema](Blokschema.png)
+![Blokschema](Blokschema.png)
 
 
 
