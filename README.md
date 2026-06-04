@@ -13,7 +13,7 @@ Embedded software die detecteert of een persoon is gevallen.
 
 
 
-!\[Hardware Screenshot](ardware-screenshot.jpg)
+!\[Hardware Screenshot](Hardware-screenshot.jpg)
 
 
 
